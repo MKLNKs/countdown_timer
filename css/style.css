@@ -101,3 +101,9 @@
     background-color: #7a7c7c;
     color: #323232;
 }
+
+@media (max-width: 320px) {
+    .timer {
+        width: 90%;
+    }
+}
