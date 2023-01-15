@@ -1,7 +1,7 @@
 .wrapper {
     display: flex;
     justify-content: center;
-    height: 90vh;
+    height: 100vh;
 }
 
 .container {
@@ -33,6 +33,7 @@
 
 .timer__container {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 
     margin-top: 20px;
