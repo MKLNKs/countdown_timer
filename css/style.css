@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     height: 100vh;
+    font: 16px "Rubik Black", sans-serif;
 }
 
 .container {
@@ -13,7 +14,6 @@
     background: linear-gradient(339deg, #000000, #3e4343 70.71%),
     linear-gradient(127deg, #000000, rgba(0, 255, 0, 0) 70.71%),
     linear-gradient(336deg, rgb(61, 61, 75), rgb(255 0 0 / 0%) 70.71%);
-    font: 16px "Rubik Black", sans-serif;
     color: white;
     text-transform: uppercase;
 }
